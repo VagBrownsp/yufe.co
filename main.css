@@ -95,6 +95,7 @@ height: 83px;
 z-index: 9;
 background-color: lightgray;
 opacity: .3;
+cursor: pointer;
 position: absolute;
 background-image: url('./img/arrowleft_resized.png');
 top:45%;
@@ -110,6 +111,7 @@ button.slick-next {
     z-index: 9;
     background-color: lightgrey;
     opacity: .3;
+    cursor: pointer;
     position: absolute;
     background-image: url('./img/arrowright_resized.png');
     top:45%;
