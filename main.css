@@ -10,7 +10,13 @@ body {
     height: 6rem;
    background-color: #0e0c0c;
 }
+.logo ul {
+    margin-left: 160px;
+}
+.logo img {
+    margin-right: 130px;
 
+}
 
 main {
     margin: 0 auto;
@@ -148,4 +154,23 @@ li.slick-active button {
     padding-left: 10px;
     display: inline-block;
 }
+.content.texto-destaque{
+    width: 750px;
+    margin-left: 260px;
+}
+.texto-destaque {
+    text-align:center;
 
+}
+.texto-destaque strong {
+    color: #646464;
+}
+.texto-destaque h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #818181;
+}
+.texto-destaque p {
+    font-size: 15px;
+    color: #9a9a9a;
+}
